@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="jun2021.DropDownConcept">
+      <class name="jun2021.DataHandling">
         <methods>
-          <include name="selectDropDown"/>
+          <include name="handlingData"/>
         </methods>
-      </class> <!-- jun2021.DropDownConcept -->
+      </class> <!-- jun2021.DataHandling -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
