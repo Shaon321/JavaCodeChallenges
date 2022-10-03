@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-04T12:23:55 PST" name="Default suite" finished-at="2022-02-04T12:24:00 PST" duration-ms="4715">
+  <suite started-at="2022-09-28T09:53:50 PDT" name="Default suite" finished-at="2022-09-28T09:53:50 PDT" duration-ms="46">
     <groups>
     </groups>
-    <test started-at="2022-02-04T12:23:55 PST" name="Default test" finished-at="2022-02-04T12:24:00 PST" duration-ms="4715">
-      <class name="jun2021.ReadExcel">
-        <test-method signature="NewAcctTTK()[pri:0, instance:jun2021.ReadExcel@7e5afaa6]" started-at="2022-02-04T12:23:55 PST" name="NewAcctTTK" finished-at="2022-02-04T12:24:00 PST" duration-ms="4685" status="PASS">
+    <test started-at="2022-09-28T09:53:50 PDT" name="Default test" finished-at="2022-09-28T09:53:50 PDT" duration-ms="46">
+      <class name="codeChallenge_Number.StarPattern">
+        <test-method signature="starPattern()[pri:0, instance:codeChallenge_Number.StarPattern@3c73951]" started-at="2022-09-28T09:53:50 PDT" name="starPattern" finished-at="2022-09-28T09:53:50 PDT" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- NewAcctTTK -->
-      </class> <!-- jun2021.ReadExcel -->
+        </test-method> <!-- starPattern -->
+      </class> <!-- codeChallenge_Number.StarPattern -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

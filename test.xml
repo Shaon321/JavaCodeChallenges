@@ -9,8 +9,8 @@
 	</groups>
   <test  name="Marketing section ">
     <classes>
-      <class name="annotationConcept.Ann2"/>
       <class name="annotationConcept.Ann1"/>
+      <class name="annotationConcept.Ann2"/>
       <class name="annotationConcept.Ann3"/>
     </classes>
   </test> <!-- Test -->

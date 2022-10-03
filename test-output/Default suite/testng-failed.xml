@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="jun2021.DataHandling">
+      <class name="codeChallenge_Number.AssertNumbers">
         <methods>
-          <include name="handlingData"/>
+          <include name="conAssert"/>
         </methods>
-      </class> <!-- jun2021.DataHandling -->
+      </class> <!-- codeChallenge_Number.AssertNumbers -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
